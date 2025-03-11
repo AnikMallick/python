@@ -1,6 +1,6 @@
-# 🐍 Python Tutorials: Data Structures and Algorithms
+# 🐍 Python Tutorials 
 
-Welcome to the **Python Tutorials: DSA** repository! This collection is aimed at providing clear, beginner-friendly implementations of fundamental Data Structures and Algorithms (DSA) in Python. It is an evolving resource where I will continuously add new topics to support learning and mastery of Python-based problem-solving.
+Welcome to the **Python Tutorials** repository! This collection is aimed at providing clear, beginner-friendly implementations of fundamental Data Structures and Algorithms (DSA) in Python. It is an evolving resource where I will continuously add new topics to support learning and mastery of Python-based problem-solving.
 
 ## 📚 What You'll Find Here
 - Python implementations of common data structures and algorithms.
@@ -20,7 +20,7 @@ Welcome to the **Python Tutorials: DSA** repository! This collection is aimed at
     ```
 2. Navigate to the repository:
     ```bash
-    cd python-tutorials-dsa
+    cd python
     ```
 3. Explore the code:
     Each topic is organized in separate folders. Dive into the implementations, read the comments, and run the code.
